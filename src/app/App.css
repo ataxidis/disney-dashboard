@@ -1,0 +1,12 @@
+body {
+  background-color: #fafafa;
+}
+
+.suspense-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  color: #666;
+  font: 500 0.95rem/1.4 system-ui, sans-serif;
+}
